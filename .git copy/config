@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "heroku"]
+	url = https://git.heroku.com/fierce-sierra-06573.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*
+[lfs]
+	repositoryformatversion = 0
+[branch "master"]
+	vscode-merge-base = origin/main

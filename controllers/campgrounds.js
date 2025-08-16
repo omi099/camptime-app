@@ -46,8 +46,8 @@ module.exports.createCampground = async (req, res, next) => {
   // if (!campground.images.length) {
   //   campground.images = [
   //     {
-  //       url: "https://res.cloudinary.com/dcw099zps/image/upload/v1705572987/YelpCamp/evrmrxurvtiwjgghzmcn.png",
-  //       filename: "YelpCamp/evrmrxurvtiwjgghzmcn.png",
+  //       url: "https://res.cloudinary.com/dcw099zps/image/upload/v1705572987/CampTime/evrmrxurvtiwjgghzmcn.png",
+  //       filename: "CampTime/evrmrxurvtiwjgghzmcn.png",
   //     },
   //   ];
   // }
